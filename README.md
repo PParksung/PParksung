@@ -22,11 +22,6 @@
 
 ---
 
-## 📈 Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-ID)  
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white)](https://yourblog.com)  
