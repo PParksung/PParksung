@@ -19,4 +19,4 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-ID)  
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white)](https://yourblog.com)  
-📧 Email: **yourmail@example.com**
+📧 Email: smp0417@naver.com
