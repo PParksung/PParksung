@@ -18,5 +18,5 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ppark-sungmin/)  
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white)](https://smp0417.tistory.com/)  
+[![Tstory](https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white)](https://smp0417.tistory.com/)  
 📧 Email: smp0417@naver.com
